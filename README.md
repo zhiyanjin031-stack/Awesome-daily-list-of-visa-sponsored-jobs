@@ -497,6 +497,6 @@ We encourage the community to engage, share, and support each other in the job s
 
 ---
 
-Last updated: Thu Nov  5 19:51:20 UTC 2026
+Last updated: Fri Nov  6 19:16:10 UTC 2026
 
 *Note: This list is automatically updated daily. Check back often for new opportunities!*
